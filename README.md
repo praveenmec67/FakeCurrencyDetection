@@ -1,1 +1,1 @@
-# FakeCurrencyDetection
+# FakeCurrencyDetection-INR

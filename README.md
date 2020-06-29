@@ -1,1 +1,1 @@
-# FakeCurrencyDetection-INR
+# FakeCurrencyDetection-(FCIR)

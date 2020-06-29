@@ -1,2 +1,2 @@
-# FakeIndianCurrencyDetection - (FICD)
+# Fake Indian Currency Detection - (FICD)
 

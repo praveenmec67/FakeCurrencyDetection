@@ -1,2 +1,2 @@
-# FakeCurrencyDetection-(FCIR)
+# FakeIndianCurrencyDetection - (FICD)
 
